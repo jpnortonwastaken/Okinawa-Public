@@ -1,2 +1,2 @@
-# Okinawa-Public
+# Okinawa
 Public repository for Okinawa app
